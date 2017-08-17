@@ -1,6 +1,4 @@
 # popt_star_bridge
-Communications bridge for integrating devices into home automation and IOT platforms
-
 PopT Star Sensor Bridge is an open-source project, designed around the Raspberry PI, that makes setting up home automation sensors quick and easy.  Just download a full pre-built image file, write it to an sd card, connect up few sensors to the Raspberry PI, edit a text configuration file to define the sensors, and the sensor is now available wirelessly within your home.
 
 Types of sensors that interface to PopT Star Sensor Bridge:
