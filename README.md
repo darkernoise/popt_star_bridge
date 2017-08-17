@@ -8,7 +8,7 @@ Standard Alarm Sensors:
 
 I2C/TWI: 
 * Generic I2C Sensors:  Any I2C sensors that return a simple packet of data bytes can be configured.
-* Complex I2C sensors such as the BPM280/BME280 (temperature, humidity, and atmospheric pressure) can connect directly to a Raspberry PI over the I2C connectors.  More complex I2C sensors will be added in the future.
+* Complex I2C Sensors such as the BPM280/BME280 (temperature, humidity, and atmospheric pressure) can connect directly to a Raspberry PI over the I2C connectors.  More complex I2C sensors will be added in the future.
 
 Serial: 
 * Serial sensors, such as the Plantower PMS7003 High-Precision Laser Dust Sensor can connect directly to a Raspberry PI over the serial connectors.  More serial sensors will be added in the future.
